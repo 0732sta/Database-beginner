@@ -1,4 +1,4 @@
 # DS-implement
  Database system.
  a practical approach using 'oracle sql developer' with example connection database (hr) that software provided.
- It can improve your sql skill.
+ It can improve your sql skill. Thanks to my dear lecturer (ICT502)
